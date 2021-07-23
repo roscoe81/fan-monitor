@@ -1,0 +1,6 @@
+function Decoder(bytes, port) {
+  var raw_state = bytes[0].toString(16).toUpperCase();
+  return{
+    state: raw_state
+  };
+}
