@@ -8,7 +8,7 @@ This monitor allows [Home Manager](https://github.com/roscoe81/Home-Manager) (>=
 
 ## Hardware
 ![Fan Status Lamp Interface](https://github.com/roscoe81/fan-monitor/blob/main/Documentation/Fan%20Monitor%20Interface_schem.png)
-This circuity provides an interface between the 24VAC fan run and fault lamps and the Pycom lopy4 microcontroller. That controller runs the code to convert the status of each lamp to LoRaWAN payloads that are send to Home Manager via The Things Network.
+This circuity provides an interface between the 24VAC fan run and fault lamps and the Pycom lopy4 microcontroller. That microcontroller runs the [Micro Python code](https://github.com/roscoe81/fan-monitor/blob/main/northcliff_fan_monitor_Gen.py) to convert the status of each lamp to LoRaWAN payloads that are sent to Home Manager via The Things Network.
 
 **This project should only be constructed and deployed by a licenced electrician. See LICENCE.md for disclaimers.**
 
