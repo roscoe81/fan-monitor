@@ -4,7 +4,7 @@ Remotely monitors building ventilation fans via The Things Network(TTN) LoRaWAN.
 ## System Overview
 ![System Overview](https://github.com/roscoe81/fan-monitor/blob/main/Documentation/Northcliff%20Fan%20Monitor%20Overview%20Gen.png).
 
-This monitor allows [Home Manager](https://github.com/roscoe81/Home-Manager) (>= Version 9.28) to remotely capture the fan status over LoRaWAN via The Things Network and provide notifications via Apple HomeKit or Pushover.
+This monitor allows [Home Manager](https://github.com/roscoe81/Home-Manager) (>= Version 9.29) to remotely capture the fan status over LoRaWAN via The Things Network and provide notifications via Apple HomeKit or Pushover.
 
 ## Hardware
 ![Fan Status Lamp Interface](https://github.com/roscoe81/fan-monitor/blob/main/Documentation/Fan%20Monitor%20Interface_schem.png)
