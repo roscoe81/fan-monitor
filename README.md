@@ -1,5 +1,5 @@
 # fan-monitor
-Remotely monitors building ventilation fans via The Things Network(TTN) LoRaWAN. In many instances the fan status can only be found by observing lamps on a panel that are located in a Plant Room. This project allows instant notification of a fan being turned off or failing.
+Remotely monitors building ventilation fans via The Things Network(TTN) LoRaWAN. In many buildings, the fan status can only be found by observing lamps on a panel that is located in a difficult-to-access Plant Room. This project allows remote and instant notification of a fan being turned off or failing via a mobile device.
 
 ## System Overview
 ![System Overview](https://github.com/roscoe81/fan-monitor/blob/main/Documentation/Northcliff%20Fan%20Monitor%20Overview%20Gen.png).
